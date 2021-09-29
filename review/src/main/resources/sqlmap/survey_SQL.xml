@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="survey">
+
+	<insert id="insert" parameterType="com.pe.bluering.vo.surveyVO"
+		useGeneratedKeys="true" keyProperty="idx">
+		<![CDATA[
+			INSERT INTO js_review_survey
+			(
+			ans1,ans2,ans3,ans4,ans5,ans6,ans7,ans8,ans9,regdate
+			) 
+			VALUES(
+			#{ans1},#{ans2},#{ans3},#{ans4},#{ans5},#{ans6},#{ans7},#{ans8},#{ans9},now()
+			)
+		]]>
+	</insert>
+
+
+
+	<!-- -->
+	<select id="surveyCount" resultType="int" parameterType="com.pe.bluering.vo.surveyVO">
+	 	select count(idx) from km_lnt_survey; 
+	</select>
+	
+	
+
+</mapper>
