@@ -31,6 +31,7 @@
 	  }
 
     </style>
+    <!-- 이모지 제거 작성 할 것 -->
 </head>
   <body class="bg-light py-3 py-lg-5">
     <div class="container">
