@@ -276,7 +276,7 @@
 		<div class="form-row">
 				<div class="col-md-12 form-group">
 					  <h2 class="h5">6. J&STAY가 타 숙소와 비교하여 장점이 있다면 적어주세요.</h2>
-					  <p class="small">▶작성시 그림 이모티콘은 쓰지 마세요.</p>
+					  <p class="small">▶작성시 이모지는 사용할 수 없습니다.</p>
 				  	  <br>
 				  <div class="icheck-primary form-check form-check-inline">
 				  	<textarea class="form-control" id="primary6" name="ans6" cols="130" rows="5" onkeyup="removeEmojis(this)"></textarea>
@@ -294,7 +294,7 @@
 		<div class="form-row">
 				<div class="col-md-12 form-group">
 					  <h2 class="h5">7. J&STAY가 타 숙소와 비교하여 단점이 있다면 적어주세요.</h2>
-					   <p class="small">▶작성시 그림 이모티콘은 쓰지 마세요.</p>
+					   <p class="small">▶작성시 이모지는 사용할 수 없습니다.</p>
 				  	  <br>
 				  <div class="icheck-primary form-check form-check-inline">
 				  	<textarea class="form-control" id="primary7" name="ans7" cols="130" rows="5" onkeyup="removeEmojis(this)"></textarea>
@@ -312,7 +312,7 @@
 		<div class="form-row">
 				<div class="col-md-12 form-group">
 					  <h2 class="h5">8. J&STAY에서 머무시는 동안에 불편하셨던 점이 있으셨다면 건의사항을 남겨주세요.</h2>
-					  <p class="small">▶작성시 그림 이모티콘은 쓰지 마세요.</p>
+					  <p class="small">▶작성시 이모지는 사용할 수 없습니다.</p>
 				  	  <br>
 				  <div class="icheck-primary form-check form-check-inline">
 				  	<textarea class="form-control" id="primary8" name="ans8" cols="130" rows="5" onkeyup="removeEmojis(this)"></textarea>
@@ -331,7 +331,7 @@
 		<div class="form-row">
 				<div class="col-md-12 form-group">
 					  <h2 class="h5">9. J&STAY에서 머무시는 동안의 후기를 작성해 주세요.</h2>
-					   <p class="small">▶작성시 그림 이모티콘은 쓰지 마세요.</p>
+					   <p class="small">▶작성시 이모지는 사용할 수 없습니다.</p>
 				  	  <br>
 				  <div class="icheck-primary form-check form-check-inline">
 				  	<textarea class="form-control" id="primary9" name="ans9" cols="130" rows="5" onkeyup="removeEmojis(this)"></textarea>
