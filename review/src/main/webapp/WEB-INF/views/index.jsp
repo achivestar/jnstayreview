@@ -31,7 +31,7 @@
 	  }
 
     </style>
-    <!-- 이모지 제거 작성 할 것 -->
+    <!-- 이모지 제거 작성 할 것 2021/9/30 -->
 </head>
   <body class="bg-light py-3 py-lg-5">
     <div class="container">
